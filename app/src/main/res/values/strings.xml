@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AllAboutPSM</string>
+
+    <string name="History">
+        Persatuan Sepak bola Makassar atau lebih populer dengan sebutan PSM Makassar, adalah sebuah tim sepak bola Indonesia yang berbasis di Kota Makassar, Sulawesi Selatan. Tim berjuluk Juku Eja yang juga biasa dijuluki Ayam Jantan dari Timur, merupakan salah satu tim terkuat di pentas sepak bola nasional. Kisah terbentuknya PSM Makassar dimulai pada 2 November 1915 yang dinyatakan sebagai berdirinya sebuah perkumpulan sepak bola bernama Makassar Voetbal Bond (MVB) yang di kemudian tercatat sebagai embrio PSM. Dalam perjalanannya, MVB menampilkan putra-putra pribumi di jajaran elite persepak bolaan Hindia Belanda, seperti Sagi dan Sangkala sebagai pemain andal dan cukup disegani. Pada masa itu, sekitar 1926-1940, MVB sudah melakukan pertandingan dengan beberapa kesebelasan dari dalam maupun luar negeri. Di antaranya dari Jawa, seperti Quick, Excelcior, HBS, sejumlah klub dari Sumatera, Kalimantan, dan Bali. Sedang dari luar negeri kesebelasan dari Hongkong dan Australia. Pendek kata, MVB langsung melejit sebagai klub ternama. Sayang pada usianya yang ke-25, kegiatan MVB mulai surut seiring dengan kedatangan pasukan Jepang di Makassar. Itu karena orang-orang Belanda yang tergabung dalam MVB ditangkap, sedangkan pemain-pemain pribumi dijadikan Romusa. Sebagiannya lagi dikirim ke Myanmar. MVB praktis lumpuh total, sebagaimana klub-klub sepak bola di Indonesia kala itu. Apalagi Jepang menerapkan aturan segala yang berbau Belanda harus dimusnahkan. Tak terkecuali itu adalah klub sepak bola. Sebaliknya, untuk mencari dukungan penduduk setempat, Jepang membiarkan masyarakat menggunakan nama-nama Indonesia. MVB pun berubah menjadi Persatuan Sepak bola Makassar (PSM Makassar). Pada dekade 1950, PSM mulai melakukan ekspansi ke Pulau Jawa untuk menjalin hubungan dengan PSSI. Bintang-bintang PSM pun bermunculan. Salah satunya yang paling fenomenal tentunya adalah Ramang. Bahkan kehebatan Ramang yang menjadi ikon PSM dan tercatat dalam sejarah sepak bola nasional sebagai legenda itu tetap dikenang hingga saat ini. Mungkin itu pula yang membuat tim ini terkadang dijuluki Pasukan Ramang. PSM pertama kali menjadi juara perserikatan pada 1957 dengan mengalahkan PSMS Medan di partai final yang digelar di Medan. Sejak saat itu PSM menjadi kekuatan baru di jagad sepak bola Indonesia. Lima kali gelar juara perserikatan mereka raih serta beberapa kali runner-up di era sepak bola profesional, tim ini pernah mencatat prestasi mengesankan dengan menjadi The Dream Team ketika mengumpulkan sejumlah pilar tim nasional seperti Hendro Kartiko, Bima Sakti, Aji Santoso, Miro Baldo Bento, Kurniawan Dwi Julianto, yang dikombinasikan dengan pemain asli Makassar seperti Ronny Ririn, Syamsudin Batola, Yusrifar Djafar, dan Rachman Usman, ditambah Carlos de Mello, dan Yosep Lewono. Hebatnya, PSM kala itu hanya dua kali menelan kekalahan dari 31 pertandingan yang mereka mainkan.
+    </string>
+
+
+    <string-array name="player_name">
+        <item>29 - Hilman Syah</item>
+        <item>51 - Syaiful Syamsuddin</item>
+        <item>24 - Shahar Ginanjar</item>
+        <item>20 - Rivky Mokodompit</item>
+        <item>3 - Zulkifli Syukur</item>
+        <item>15 – Hasyim Kipuw</item>
+        <item>2 – Hendra Wijaya</item>
+        <item>22 – Ardan Aras</item>
+        <item>86 – Steven Paulle</item>
+        <item>28 – Abdul Rahman</item>
+        <item>5 – Reva Adi Utama</item>
+        <item>4 – Wasyiat Hasbullah</item>
+        <item>36 – Ahmad Hari Ajis Muin</item>
+        <item>25 – M Fauzan Jamal</item>
+        <item>31 – Muhammad Syafii</item>
+        <item>10 – Marc Anthony Klok</item>
+        <item>19 – Rizky Ahmad Sanjaya Pellu</item>
+        <item>14 – Asnawi Mangkualam</item>
+        <item>18 – M Arfan</item>
+        <item>17 – Rasyid Bakri</item>
+        <item>80 – Wiljan Pluim</item>
+        <item>99 – Saldi</item>
+        <item>7 – Zulham Zamrun</item>
+        <item>13 – Agi Pratama</item>
+        <item>21 – Arsyad Yusgiantoro</item>
+        <item>11 – M Rahmat</item>
+        <item>94 – Heri Susanto</item>
+        <item>39 – Guy Junior</item>
+        <item>9 – Bruce Djite</item>
+    </string-array>
+
+    <string-array name="juara">
+        <item>Liga Domestik
+            Perserikatan (1931-1994), Divisi Utama (1994-2008), LSI (2008-2010), LPI (2011-2013), LSI (2014-2016):
+Juara (6): 1956–57, 1957–59, 1964–65, 1965–66, 1991–92, 1999–2000
+Runners-up (8): 1951, 1959–61, 1964, 1993–94, 1995–96, 2001, 2003, 2004
+Third-place (1): 2011
+Semi-final (2): 1996–97, 2002</item>
+        <item>Piala Domestik
+Jusuf Cup
+Juara (7): 1965, 1967, 1975, 1978, 1980, 1984, 1999
+Soeharto Cup
+Juara (1): 1974
+Habibie Cup
+Juara (4): 1993, 1995, 1996, 1997</item>
+        <item>Piala Winners Asia
+Perempat-final (1): 1997–98
+Liga Champions AFC
+Perempat-final (1): 2000–01
+Semifinal (1):2005</item>
+        <item>Ho Chi Minh City Cup
+Juara (1): 2001</item>
+    </string-array>
+
+</resources>
